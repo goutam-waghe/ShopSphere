@@ -1,0 +1,1 @@
+ShopSphere is a single-vendor e-commerce platform. Customers can discover products, search and filter the catalogue, manage a cart and wishlist, provide a delivery address, place an order, and pay online. Administrators manage the catalogue, categories, stock, customers, and order statuses.
